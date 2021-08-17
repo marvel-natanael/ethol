@@ -1,9 +1,9 @@
 # ethol
 
-##About
+## About
 This is a redesign of my campus e-learning website coded using Flutter
 
-##Workflow
+## Workflow
 - Mockup design & prototyping with Figma
 - Coded using Flutter with Visual Studio Code
 - Showcased in dribble and instagram
